@@ -1,0 +1,12 @@
+@media (max-width: 1028px) {
+    .title-image {
+        position: static;
+        width: 60%;
+        transform: rotate(0);
+    }
+    
+    .big_heading {
+        text-align: center;
+    }
+}
+
